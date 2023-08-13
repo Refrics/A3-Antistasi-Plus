@@ -4762,19 +4762,19 @@
                 <Original>Factory</Original>
                 <Russian>Фабрика</Russian>
                 <Chinesesimp>工厂</Chinesesimp>
-                <Korean>%1 공장</Korean>
+                <Korean>공장</Korean>
             </Key>
             <Key ID="STR_port_river">
                 <Original>River Port</Original>
                 <Russian>Речной порт</Russian>
                 <Chinesesimp>河港</Chinesesimp>
-                <Korean>%1 강항</Korean>
+                <Korean>강항</Korean>
             </Key>
             <Key ID="STR_port_sea">
                 <Original>Sea Port</Original>
                 <Russian>Морской порт</Russian>
                 <Chinesesimp>海港</Chinesesimp>
-                <Korean>%1 항구</Korean>
+                <Korean>항구</Korean>
             </Key>
             <Key ID="STR_milbase">
                 <Original>%1 Military Base</Original>
@@ -4934,10 +4934,12 @@
             </Key>
             <Key ID="STR_info_bar_undercover_break_reason_vtow_ropes">
                 <Original>You can't be undercover while tow ropes are attached to your vehicle!</Original>
+                <Korean>견인 로프가 차량에 부착되어 있는 동안에는 잠복할 수 없습니다!</Korean>
                 <Russian>Вы не можете оставаться под прикрытием пока к вашей технике прикреплен буксировочный трос!</Russian>
             </Key>
             <Key ID="STR_info_bar_undercover_break_reason_tow_ropes">
                 <Original>You can't be undercover and use tow ropes!</Original>
+                <Korean>잠복 상태에서 견인 로프를 사용할 수 없습니다!</Korean>
                 <Russian>Вы не можете оставаться под прикрытием пока у вас в руках буксировочный трос!</Russian>
             </Key>
         </Container>
